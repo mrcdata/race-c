@@ -1,1 +1,2 @@
-# race-c
+# RACE-C
+To be released.
