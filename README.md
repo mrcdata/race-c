@@ -24,5 +24,3 @@ We construct the same format of RACE-C as [Lai et al. (2017)](http://www.cs.cmu.
   "id": "1.txt"
 }
 ```
-
-*This dataset is intended for non-commercial research purpose only.
